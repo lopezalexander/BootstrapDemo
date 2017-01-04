@@ -75,7 +75,7 @@
 	    </div><!-- row -->
 	    </div> <!-- /container -->
 
-		 asd
+		 
 	<?php include 'inc/footer.php'; ?>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
