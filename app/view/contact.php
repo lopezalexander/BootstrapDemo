@@ -74,7 +74,7 @@
 	      </div><!-- col -->
 	    </div><!-- row -->
 	    </div> <!-- /container -->
-s
+
 		 
 	<?php include 'inc/footer.php'; ?>
 
